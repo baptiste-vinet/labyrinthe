@@ -1,0 +1,1 @@
+cote_fenetre = 1000
